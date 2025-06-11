@@ -115,4 +115,6 @@ Güvenli anahtar yönetimi
 Rastgele anahtar üretimi
 Güvenli veri depolama
 Şifreleme anahtarlarının güvenli saklanması
+## link Page
+ (#https://abdullah-esmail20.github.io/Decryption_bilgiguvenligi/)
 # Decryption_bilgiguvenligi
